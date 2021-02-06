@@ -21,4 +21,4 @@ My credentials include a degree in Production/Civil engineer with FUMEC Universi
 ## Projetos:
 Veja os tutoriais publicados do Vítor Beltrão:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise dos dados do Airbnb em Toronto:** http://bit.ly/3tC8qkm
