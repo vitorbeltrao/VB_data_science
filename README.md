@@ -21,4 +21,4 @@ My credentials include a degree in Production/Civil engineer with FUMEC Universi
 ## Projetos:
 Veja os tutoriais publicados do Vítor Beltrão:
 
-* **Análise dos dados do Airbnb em Toronto:** http://bit.ly/3tC8qkm
+* **Análise dos dados do Airbnb em Toronto:** https://bit.ly/2O7a6BQ
