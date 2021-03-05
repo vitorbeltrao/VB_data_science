@@ -23,3 +23,4 @@ Veja os tutoriais publicados do Vítor Beltrão:
 
 * **Análise dos dados do Airbnb em Toronto:** https://bit.ly/2O7a6BQ
 * **Analisando a violência no Rio de Janeiro:** https://bit.ly/3s1k0DH
+* **Analisando os dados da Covid-19 no mundo e no Brasil:** https://bit.ly/3s1k0DH
