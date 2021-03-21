@@ -25,3 +25,4 @@ Veja os tutoriais publicados do Vítor Beltrão:
 * **Analisando a violência no Rio de Janeiro:** https://bit.ly/3s1k0DH
 * **Analisando os dados da Covid-19 no mundo e no Brasil:** https://bit.ly/38dFiXA
 * **Projeto - Detecção de fraude em cartões de crédito:** https://bit.ly/3ckwxw1
+* **Projeto - Churn Prediction para uma empresa de Telecomunicações:** https://bit.ly/3c6fNJV
