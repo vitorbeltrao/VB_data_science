@@ -31,3 +31,6 @@ Veja os tutoriais publicados do Vítor Beltrão:
 * **Projeto - Churn Prediction para uma empresa de Telecomunicações:** https://bit.ly/3c6fNJV
 * **Projeto - Análise de risco de crédito:** https://bit.ly/3fzggXd
 * **Projeto - Previsão dos preços do bitcoin:** https://bit.ly/3gGQeBO
+
+## Artigos teóricos - modelos de machine learning
+* **Projeto - Previsão dos preços do bitcoin utilizando a regressão linear:** https://bit.ly/3gGQeBO
