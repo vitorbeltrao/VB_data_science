@@ -33,3 +33,4 @@ Veja os tutoriais publicados do Vítor Beltrão:
 
 ## Artigos teóricos - modelos de machine learning
 * **Projeto - Previsão dos preços do bitcoin utilizando a regressão linear:** https://bit.ly/3gGQeBO
+* **A Teoria por Trás dos Códigos - Problemas de Classificação:** https://bit.ly/3xNpV2U
