@@ -30,6 +30,7 @@ Veja os tutoriais publicados do Vítor Beltrão:
 * **Projeto - Detecção de fraude em cartões de crédito:** https://bit.ly/3ckwxw1
 * **Projeto - Churn Prediction para uma empresa de Telecomunicações:** https://bit.ly/3c6fNJV
 * **Projeto - Análise de risco de crédito:** https://bit.ly/3fzggXd
+* **Projeto - Previsão de um paciente sofrer um AVC:** https://bit.ly/3nVjPJm
 
 ## Artigos teóricos - modelos de machine learning
 * **Projeto - Previsão dos preços do bitcoin utilizando a regressão linear:** https://bit.ly/3gGQeBO
