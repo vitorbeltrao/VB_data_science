@@ -11,7 +11,7 @@ As an experienced Data Scientist and Production/Civil Engineer. I combine analyt
 
 My credentials include a degree in Production/Civil engineer with FUMEC University, "Data Science na prática" with Carlos Melo (https://sigmoidal.ai/) and Machine Learning course in Stanford University.
 
-**Background in:** Python, Machine Learning, and Mathematical Optimisation.
+**Background in:** Python, Machine Learning, Web Scraping and Mathematical Optimisation.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/v%C3%ADtor-beltr%C3%A3o-56a912178/)
