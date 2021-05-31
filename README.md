@@ -9,7 +9,7 @@
 
 As an experienced Data Scientist and Production/Civil Engineer. I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last months studying Data Science and Machine Learning, I am developing a critical thinking and problem-solving skills.
 
-My credentials include a degree in Production/Civil engineer with FUMEC University, "Data Science na prática" with Carlos Melo (https://sigmoidal.ai/) and Machine Learning course in Stanford University.
+My credentials include a degree in Production/Civil engineer with FUMEC University, "Data Science na prática" with Carlos Melo (https://sigmoidal.ai/) and Machine Learning course in Stanford University. I am currently doing a specialization in deep learning (DeepLearning.ai | Coursera)
 
 **Background in:** Python, Machine Learning, Web Scraping and Mathematical Optimisation.
 
