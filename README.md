@@ -31,6 +31,9 @@ Veja os tutoriais publicados do Vítor Beltrão:
 * **Projeto - Churn Prediction para uma empresa de Telecomunicações:** https://bit.ly/3c6fNJV
 * **Projeto - Análise de risco de crédito:** https://bit.ly/3fzggXd
 * **Projeto - Previsão de um paciente sofrer um AVC:** https://bit.ly/3nVjPJm
+  
+## Projetos de machine learning - Aprendizado não supervisionado
+* **Projeto - Clusterização de dados: Segmentação de clientes:** https://bit.ly/3g5lwlh
 
 ## Artigos teóricos - modelos de machine learning
 * **Projeto - Previsão dos preços do bitcoin utilizando a regressão linear:** https://bit.ly/3gGQeBO
