@@ -38,7 +38,6 @@ Veja os tutoriais publicados do Vítor Beltrão:
 ## Projetos teóricos
 * **Projeto - Previsão dos preços do bitcoin utilizando a regressão linear:** https://bit.ly/3gGQeBO
 * **A Teoria por Trás dos Códigos - Problemas de Classificação:** https://bit.ly/3xNpV2U
-* **Análise descritiva para cientistas de dados:** https://bit.ly/3qHc63a
   
 ## Dicas para cientistas de dados
 * **5 dicas de conteúdos gratuitos para cientistas de dados:** https://bit.ly/3ipNk5c
