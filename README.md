@@ -35,6 +35,9 @@ Veja os tutoriais publicados do Vítor Beltrão:
 ## Projetos de machine learning - Aprendizado não supervisionado
 * **Projeto - Clusterização de dados: Segmentação de clientes:** https://bit.ly/3g5lwlh
 
+## Projetos de deep learning
+* **Projeto - Séries temporais: Previsão utilizando redes neurais:** https://bit.ly/3hBJEvu
+  
 ## Projetos teóricos
 * **Projeto - Previsão dos preços do bitcoin utilizando a regressão linear:** https://bit.ly/3gGQeBO
 * **A Teoria por Trás dos Códigos - Problemas de Classificação:** https://bit.ly/3xNpV2U
